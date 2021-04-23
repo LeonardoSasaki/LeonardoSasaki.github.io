@@ -1,2 +1,10 @@
+# Robots.txt file for my personal github pages blog.
+# The main purpose of a robots.txt is determining 
+# what the search engine/crawler should ignore. This
+# is not a security measure, DO NOT INCLUDE SENSITIVE
+# DIRECTORIES, EVER!! (don't know why you would you
+# even make someting like that public anyways...)
+
 User-agent: *
-Disallow: /contact.html
+Disallow: /about
+Disallow: /atom.xml
