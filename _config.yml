@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Sasaki blog
+description: "My personal blog where i share stuff i like"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Sasaki"
+  email: "[redacted]"
+  url: "https://github.com/LeonardoSasaki/"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
-year : "2020"
+owner : "Sasaki"
+year : "2021"
