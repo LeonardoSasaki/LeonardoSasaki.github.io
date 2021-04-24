@@ -11,6 +11,6 @@ I am a hacking enthusiast willing to learn and share stuff i like. I currently d
 If you found any spelling mistakes, missing and/or wrong information, or anything you think could be better, feel free to contribute with a pull request at [the blog' repository]({{ "https://github.com/LeonardoSasaki/Leonardosasaki.github.io" }}), or simply contact me using my email, which you can find at my personal github account.
 
 <h2>special thanks to</h2>
-<p>tocttou for his/their [Hacker-Blog template]({{ "https://github.com/tocttou/hacker-blog" }}), which saved me lots of time and effort.</p>
-<p>~unknown author~ for his/their [tipuesearch]({{ "https://github.com/tocttou/hacker-blog" }}) project</p>
-<p>Github Team, for making this blog possible with their free hosting service</p>
+<p/>tocttou for his/their [Hacker-Blog template]({{ "https://github.com/tocttou/hacker-blog" }}), which saved me lots of time and effort.
+<p/>~unknown author~ for his/their [tipuesearch]({{ "https://github.com/tocttou/hacker-blog" }}) project
+<p/>Github Team, for making this blog possible with their free hosting service
